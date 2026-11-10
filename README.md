@@ -8,3 +8,7 @@ The description field has also been changed, in which you can place HTML directl
 ## Requirements
 
 PrestaShop 1.7.1.0 or newer.
+
+## License
+
+Academic Free License 3.0 (AFL-3.0), same as ps_banner.
